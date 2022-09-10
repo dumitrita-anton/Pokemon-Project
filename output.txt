@@ -1,0 +1,491 @@
+Pikachu vsSquirtle
+
+Pikachu vs Neutrel2
+Round 1
+Pikachu is dodged; attack failed
+Pikachu executa ability2 contra Neutrel2
+Pikachu HP:45 dodged:true stunned:false
+Neutrel2 HP:16 dodged:false stunned:true
+Round 2
+Neutrel2 stunned
+Pikachu executa ability1 contra Neutrel2
+Pikachu HP:45 dodged:false stunned:false
+Neutrel2 HP:10 dodged:false stunned:false
+Round 3
+Neutrel2 attacks Pikachu
+Pikachu attacks Neutrel2
+Pikachu HP:45 dodged:false stunned:false
+Neutrel2 HP:7 dodged:false stunned:false
+Round 4
+Neutrel2 attacks Pikachu
+Pikachu attacks Neutrel2
+Pikachu HP:45 dodged:false stunned:false
+Neutrel2 HP:4 dodged:false stunned:false
+Round 5
+Neutrel2 attacks Pikachu
+Pikachu attacks Neutrel2
+Pikachu HP:45 dodged:false stunned:false
+Neutrel2 HP:1 dodged:false stunned:false
+Round 6
+Neutrel2 attacks Pikachu
+Pikachu executa ability1 contra Neutrel2
+Pikachu HP:45 dodged:false stunned:false
+Neutrel2 HP:-5 dodged:false stunned:false
+
+Squirtle vs Neutrel2
+Round 1
+Neutrel2 attacks Squirtle
+Squirtle executa ability1 contra Neutrel2
+Squirtle HP:62 dodged:false stunned:false
+Neutrel2 HP:16 dodged:false stunned:false
+Round 2
+Neutrel2 attacks Squirtle
+Squirtle executa ability2 contra Neutrel2
+Squirtle HP:62 dodged:false stunned:false
+Neutrel2 HP:14 dodged:false stunned:true
+Round 3
+Neutrel2 stunned
+Squirtle attacks Neutrel2
+Squirtle HP:62 dodged:false stunned:false
+Neutrel2 HP:7 dodged:false stunned:false
+Round 4
+Neutrel2 attacks Squirtle
+Squirtle executa ability2 contra Neutrel2
+Squirtle HP:62 dodged:false stunned:false
+Neutrel2 HP:5 dodged:false stunned:true
+Round 5
+Neutrel2 stunned
+Squirtle attacks Neutrel2
+Squirtle HP:62 dodged:false stunned:false
+Neutrel2 HP:-2 dodged:false stunned:false
+
+Pikachu vs Neutrel2
+Round 1
+Pikachu is dodged; attack failed
+Pikachu executa ability2 contra Neutrel2
+Pikachu HP:46 dodged:true stunned:false
+Neutrel2 HP:16 dodged:false stunned:true
+Round 2
+Neutrel2 stunned
+Pikachu attacks Neutrel2
+Pikachu HP:46 dodged:false stunned:false
+Neutrel2 HP:12 dodged:false stunned:false
+Round 3
+Neutrel2 attacks Pikachu
+Pikachu attacks Neutrel2
+Pikachu HP:46 dodged:false stunned:false
+Neutrel2 HP:8 dodged:false stunned:false
+Round 4
+Neutrel2 attacks Pikachu
+Pikachu executa ability1 contra Neutrel2
+Pikachu HP:46 dodged:false stunned:false
+Neutrel2 HP:2 dodged:false stunned:false
+Round 5
+Neutrel2 attacks Pikachu
+Pikachu attacks Neutrel2
+Pikachu HP:46 dodged:false stunned:false
+Neutrel2 HP:-2 dodged:false stunned:false
+
+Squirtle vs Neutrel2
+Round 1
+Neutrel2 attacks Squirtle
+Squirtle executa ability2 contra Neutrel2
+Squirtle HP:63 dodged:false stunned:false
+Neutrel2 HP:18 dodged:false stunned:true
+Round 2
+Neutrel2 stunned
+Squirtle attacks Neutrel2
+Squirtle HP:63 dodged:false stunned:false
+Neutrel2 HP:10 dodged:false stunned:false
+Round 3
+Neutrel2 attacks Squirtle
+Squirtle attacks Neutrel2
+Squirtle HP:63 dodged:false stunned:false
+Neutrel2 HP:2 dodged:false stunned:false
+Round 4
+Neutrel2 attacks Squirtle
+Squirtle executa ability2 contra Neutrel2
+Squirtle HP:63 dodged:false stunned:false
+Neutrel2 HP:0 dodged:false stunned:true
+
+Pikachu vs Squirtle
+Round 1
+Pikachu executa ability2 contra Squirtle
+Squirtle stunned
+Pikachu HP:47 dodged:true stunned:false
+Squirtle HP:60 dodged:false stunned:false
+Round 2
+Pikachu attacks Squirtle
+Squirtle attacks Pikachu
+Pikachu HP:44 dodged:false stunned:false
+Squirtle HP:60 dodged:false stunned:false
+Round 3
+Pikachu attacks Squirtle
+Squirtle executa ability1 contra Pikachu
+Pikachu HP:40 dodged:false stunned:false
+Squirtle HP:60 dodged:false stunned:false
+Round 4
+Pikachu attacks Squirtle
+Squirtle attacks Pikachu
+Pikachu HP:37 dodged:false stunned:false
+Squirtle HP:60 dodged:false stunned:false
+Round 5
+Pikachu attacks Squirtle
+Squirtle attacks Pikachu
+Pikachu HP:34 dodged:false stunned:false
+Squirtle HP:60 dodged:false stunned:false
+Round 6
+Squirtle executa ability1 contra Pikachu
+Pikachu executa ability2 contra Squirtle
+Pikachu HP:30 dodged:true stunned:false
+Squirtle HP:56 dodged:false stunned:true
+Round 7
+Pikachu attacks Squirtle
+Squirtle stunned
+Pikachu HP:30 dodged:false stunned:false
+Squirtle HP:56 dodged:false stunned:false
+Round 8
+Pikachu attacks Squirtle
+Squirtle attacks Pikachu
+Pikachu HP:27 dodged:false stunned:false
+Squirtle HP:56 dodged:false stunned:false
+Round 9
+Pikachu attacks Squirtle
+Squirtle attacks Pikachu
+Pikachu HP:24 dodged:false stunned:false
+Squirtle HP:56 dodged:false stunned:false
+Round 10
+Pikachu attacks Squirtle
+Squirtle executa ability2 contra Pikachu
+Pikachu HP:22 dodged:false stunned:true
+Squirtle HP:56 dodged:false stunned:false
+Round 11
+Pikachu stunned
+Squirtle attacks Pikachu
+Pikachu HP:19 dodged:false stunned:false
+Squirtle HP:56 dodged:false stunned:false
+Round 12
+Pikachu attacks Squirtle
+Squirtle executa ability2 contra Pikachu
+Pikachu HP:17 dodged:false stunned:true
+Squirtle HP:56 dodged:false stunned:false
+Round 13
+Pikachu stunned
+Squirtle attacks Pikachu
+Pikachu HP:14 dodged:false stunned:false
+Squirtle HP:56 dodged:false stunned:false
+Round 14
+Pikachu attacks Squirtle
+Squirtle attacks Pikachu
+Pikachu HP:11 dodged:false stunned:false
+Squirtle HP:56 dodged:false stunned:false
+Round 15
+Pikachu executa ability1 contra Squirtle
+Squirtle executa ability1 contra Pikachu
+Pikachu HP:7 dodged:false stunned:false
+Squirtle HP:50 dodged:false stunned:false
+Round 16
+Pikachu executa ability2 contra Squirtle
+Pikachu is dodged; attack failed
+Pikachu HP:7 dodged:true stunned:false
+Squirtle HP:46 dodged:false stunned:true
+Round 17
+Pikachu attacks Squirtle
+Squirtle stunned
+Pikachu HP:7 dodged:false stunned:false
+Squirtle HP:46 dodged:false stunned:false
+Round 18
+Squirtle executa ability1 contra Pikachu
+Pikachu attacks Squirtle
+Pikachu HP:3 dodged:false stunned:false
+Squirtle HP:46 dodged:false stunned:false
+Round 19
+Pikachu attacks Squirtle
+Squirtle executa ability2 contra Pikachu
+Pikachu HP:1 dodged:false stunned:true
+Squirtle HP:46 dodged:false stunned:false
+Round 20
+Pikachu stunned
+Squirtle attacks Pikachu
+Pikachu HP:-2 dodged:false stunned:false
+Squirtle HP:46 dodged:false stunned:false
+
+WINNER: antrenorul2 with Squirtle
+Bulbasaur vsPikachu
+
+Bulbasaur vs Pikachu
+Round 1
+Pikachu attacks Bulbasaur
+Bulbasaur executa ability1 contra Pikachu
+Bulbasaur HP:46 dodged:false stunned:false
+Pikachu HP:29 dodged:false stunned:false
+Round 2
+Bulbasaur attacks Pikachu
+Pikachu executa ability2 contra Bulbasaur
+Bulbasaur HP:42 dodged:false stunned:true
+Pikachu HP:29 dodged:true stunned:false
+Round 3
+Bulbasaur stunned
+Pikachu attacks Bulbasaur
+Bulbasaur HP:36 dodged:false stunned:false
+Pikachu HP:29 dodged:false stunned:false
+Round 4
+Bulbasaur executa ability2 contra Pikachu
+Pikachu executa ability1 contra Bulbasaur
+Bulbasaur HP:30 dodged:false stunned:false
+Pikachu HP:24 dodged:false stunned:false
+Round 5
+Pikachu attacks Bulbasaur
+Bulbasaur executa ability1 contra Pikachu
+Bulbasaur HP:24 dodged:false stunned:false
+Pikachu HP:18 dodged:false stunned:false
+Round 6
+Bulbasaur attacks Pikachu
+Pikachu attacks Bulbasaur
+Bulbasaur HP:18 dodged:false stunned:false
+Pikachu HP:18 dodged:false stunned:false
+Round 7
+Bulbasaur attacks Pikachu
+Pikachu attacks Bulbasaur
+Bulbasaur HP:12 dodged:false stunned:false
+Pikachu HP:18 dodged:false stunned:false
+Round 8
+Pikachu executa ability1 contra Bulbasaur
+Bulbasaur executa ability2 contra Pikachu
+Bulbasaur HP:6 dodged:false stunned:false
+Pikachu HP:13 dodged:false stunned:false
+Round 9
+Pikachu attacks Bulbasaur
+Bulbasaur attacks Pikachu
+Bulbasaur HP:0 dodged:false stunned:false
+Pikachu HP:13 dodged:false stunned:false
+
+WINNER: antrenorul2 with Pikachu
+Charmander vsVulpix
+
+Charmander vs Neutrel1
+Round 1
+Neutrel1 attacks Charmander
+Charmander executa ability1 contra Neutrel1
+Charmander HP:60 dodged:false stunned:false
+Neutrel1 HP:6 dodged:false stunned:true
+Round 2
+Neutrel1 stunned
+Charmander attacks Neutrel1
+Charmander HP:60 dodged:false stunned:false
+Neutrel1 HP:0 dodged:false stunned:false
+
+Vulpix vs Neutrel1
+Round 1
+Vulpix is dodged; attack failed
+Vulpix executa ability2 contra Neutrel1
+Vulpix HP:38 dodged:true stunned:false
+Neutrel1 HP:8 dodged:false stunned:false
+Round 2
+Neutrel1 attacks Vulpix
+Vulpix attacks Neutrel1
+Vulpix HP:38 dodged:false stunned:false
+Neutrel1 HP:2 dodged:false stunned:false
+Round 3
+Neutrel1 attacks Vulpix
+Vulpix executa ability1 contra Neutrel1
+Vulpix HP:38 dodged:false stunned:false
+Neutrel1 HP:-6 dodged:false stunned:true
+
+Charmander vs Neutrel1
+Round 1
+Neutrel1 attacks Charmander
+Charmander attacks Neutrel1
+Charmander HP:61 dodged:false stunned:false
+Neutrel1 HP:3 dodged:false stunned:false
+Round 2
+Neutrel1 attacks Charmander
+Charmander attacks Neutrel1
+Charmander HP:61 dodged:false stunned:false
+Neutrel1 HP:-4 dodged:false stunned:false
+
+Vulpix vs Neutrel1
+Round 1
+Neutrel1 attacks Vulpix
+Vulpix attacks Neutrel1
+Vulpix HP:39 dodged:false stunned:false
+Neutrel1 HP:3 dodged:false stunned:false
+Round 2
+Neutrel1 attacks Vulpix
+Vulpix attacks Neutrel1
+Vulpix HP:39 dodged:false stunned:false
+Neutrel1 HP:-4 dodged:false stunned:false
+
+Charmander vs Vulpix
+Round 1
+Charmander executa ability1 contra Vulpix
+Vulpix stunned
+Charmander HP:62 dodged:false stunned:false
+Vulpix HP:36 dodged:false stunned:false
+Round 2
+Charmander attacks Vulpix
+Vulpix attacks Charmander
+Charmander HP:60 dodged:false stunned:false
+Vulpix HP:33 dodged:false stunned:false
+Round 3
+Charmander attacks Vulpix
+Vulpix attacks Charmander
+Charmander HP:58 dodged:false stunned:false
+Vulpix HP:30 dodged:false stunned:false
+Round 4
+Charmander executa ability2 contra Vulpix
+Vulpix attacks Charmander
+Charmander HP:56 dodged:false stunned:false
+Vulpix HP:23 dodged:false stunned:false
+Round 5
+Charmander attacks Vulpix
+Vulpix executa ability2 contra Charmander
+Charmander HP:54 dodged:false stunned:false
+Vulpix HP:20 dodged:true stunned:false
+Round 6
+Charmander attacks Vulpix
+Vulpix attacks Charmander
+Charmander HP:52 dodged:false stunned:false
+Vulpix HP:17 dodged:false stunned:false
+Round 7
+Charmander executa ability1 contra Vulpix
+Vulpix attacks Charmander
+Charmander HP:50 dodged:false stunned:false
+Vulpix HP:13 dodged:false stunned:true
+Round 8
+Charmander attacks Vulpix
+Vulpix stunned
+Charmander HP:50 dodged:false stunned:false
+Vulpix HP:10 dodged:false stunned:false
+Round 9
+Vulpix executa ability1 contra Charmander
+Charmander attacks Vulpix
+Charmander HP:42 dodged:false stunned:true
+Vulpix HP:7 dodged:false stunned:false
+Round 10
+Charmander stunned
+Vulpix attacks Charmander
+Charmander HP:40 dodged:false stunned:false
+Vulpix HP:7 dodged:false stunned:false
+Round 11
+Charmander executa ability1 contra Vulpix
+Vulpix stunned
+Charmander HP:40 dodged:false stunned:false
+Vulpix HP:3 dodged:false stunned:false
+Round 12
+Charmander executa ability2 contra Vulpix
+Vulpix attacks Charmander
+Charmander HP:38 dodged:false stunned:false
+Vulpix HP:-4 dodged:false stunned:false
+
+WINNER: antrenorul1 with Charmander
+
+Charmander vs Squirtle
+Round 1
+Charmander attacks Squirtle
+Squirtle executa ability1 contra Charmander
+Charmander HP:59 dodged:false stunned:false
+Squirtle HP:65 dodged:false stunned:false
+Round 2
+Charmander attacks Squirtle
+Squirtle executa ability2 contra Charmander
+Charmander HP:57 dodged:false stunned:true
+Squirtle HP:65 dodged:false stunned:false
+Round 3
+Charmander stunned
+Squirtle attacks Charmander
+Charmander HP:53 dodged:false stunned:false
+Squirtle HP:65 dodged:false stunned:false
+Round 4
+Squirtle executa ability2 contra Charmander
+Charmander attacks Squirtle
+Charmander HP:51 dodged:false stunned:true
+Squirtle HP:65 dodged:false stunned:false
+Round 5
+Charmander stunned
+Squirtle executa ability1 contra Charmander
+Charmander HP:47 dodged:false stunned:false
+Squirtle HP:65 dodged:false stunned:false
+Round 6
+Charmander executa ability2 contra Squirtle
+Squirtle attacks Charmander
+Charmander HP:43 dodged:false stunned:false
+Squirtle HP:58 dodged:false stunned:false
+Round 7
+Charmander attacks Squirtle
+Squirtle attacks Charmander
+Charmander HP:39 dodged:false stunned:false
+Squirtle HP:58 dodged:false stunned:false
+Round 8
+Charmander attacks Squirtle
+Squirtle attacks Charmander
+Charmander HP:35 dodged:false stunned:false
+Squirtle HP:58 dodged:false stunned:false
+Round 9
+Charmander attacks Squirtle
+Squirtle executa ability2 contra Charmander
+Charmander HP:33 dodged:false stunned:true
+Squirtle HP:58 dodged:false stunned:false
+Round 10
+Charmander stunned
+Squirtle executa ability1 contra Charmander
+Charmander HP:29 dodged:false stunned:false
+Squirtle HP:58 dodged:false stunned:false
+Round 11
+Charmander executa ability1 contra Squirtle
+Squirtle stunned
+Charmander HP:29 dodged:false stunned:false
+Squirtle HP:54 dodged:false stunned:false
+Round 12
+Charmander attacks Squirtle
+Squirtle attacks Charmander
+Charmander HP:25 dodged:false stunned:false
+Squirtle HP:54 dodged:false stunned:false
+Round 13
+Charmander executa ability2 contra Squirtle
+Squirtle executa ability1 contra Charmander
+Charmander HP:21 dodged:false stunned:false
+Squirtle HP:47 dodged:false stunned:false
+Round 14
+Charmander attacks Squirtle
+Squirtle executa ability2 contra Charmander
+Charmander HP:19 dodged:false stunned:true
+Squirtle HP:47 dodged:false stunned:false
+Round 15
+Charmander stunned
+Squirtle attacks Charmander
+Charmander HP:15 dodged:false stunned:false
+Squirtle HP:47 dodged:false stunned:false
+Round 16
+Charmander executa ability1 contra Squirtle
+Squirtle stunned
+Charmander HP:15 dodged:false stunned:false
+Squirtle HP:43 dodged:false stunned:false
+Round 17
+Charmander attacks Squirtle
+Squirtle executa ability2 contra Charmander
+Charmander HP:13 dodged:false stunned:true
+Squirtle HP:43 dodged:false stunned:false
+Round 18
+Charmander stunned
+Squirtle executa ability1 contra Charmander
+Charmander HP:9 dodged:false stunned:false
+Squirtle HP:43 dodged:false stunned:false
+Round 19
+Charmander executa ability2 contra Squirtle
+Squirtle attacks Charmander
+Charmander HP:5 dodged:false stunned:false
+Squirtle HP:36 dodged:false stunned:false
+Round 20
+Squirtle attacks Charmander
+Charmander attacks Squirtle
+Charmander HP:1 dodged:false stunned:false
+Squirtle HP:36 dodged:false stunned:false
+Round 21
+Squirtle executa ability2 contra Charmander
+Charmander executa ability1 contra Squirtle
+Charmander HP:-1 dodged:false stunned:true
+Squirtle HP:32 dodged:false stunned:true
+
+WINNER: antrenorul2 with Squirtle
+!FINAL BATTLE WINNER!

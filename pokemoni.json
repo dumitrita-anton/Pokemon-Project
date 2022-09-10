@@ -1,0 +1,266 @@
+[
+  {
+    "name": "Neutrel1",
+    "hp": 10,
+    "attack": {
+      "normalAttack": 3,
+      "specialAttack": 0
+    },
+    "defense": 1,
+    "specialDefense": 1,
+    "ability1": null,
+    "ability2": null
+  },
+  {
+    "name": "Neutrel2",
+    "hp": 20,
+    "attack": {
+      "normalAttack": 4,
+      "specialAttack": 0
+    },
+    "defense": 1,
+    "specialDefense": 1,
+    "ability1": null,
+    "ability2": null
+  },
+  {
+    "name": "Pikachu",
+    "hp": 35,
+    "attack": {
+      "normalAttack": 0,
+      "specialAttack": 4
+    },
+    "defense": 2,
+    "specialDefense": 3,
+    "ability1":
+    {
+      "damage": 6,
+      "stun": false,
+      "dodge": false,
+      "cooldown": 4
+    },
+    "ability2":
+    {
+      "damage": 4,
+      "stun": true,
+      "dodge": true,
+      "cooldown": 5
+    }
+  },
+  {
+    "name": "Bulbasaur",
+    "hp": 42,
+    "attack": {
+      "normalAttack": 0,
+      "specialAttack": 5
+    },
+    "defense": 3,
+    "specialDefense": 1,
+    "ability1":
+    {
+      "damage": 6,
+      "stun": false,
+      "dodge": false,
+      "cooldown": 4
+    },
+    "ability2":
+    {
+      "damage": 5,
+      "stun": false,
+      "dodge": false,
+      "cooldown": 3
+    }
+  },
+  {
+    "name": "Charmander",
+    "hp": 50,
+    "attack": {
+      "normalAttack": 4,
+      "specialAttack": 0
+    },
+    "defense": 3,
+    "specialDefense": 2,
+    "ability1":
+    {
+      "damage": 4,
+      "stun": true,
+      "dodge": false,
+      "cooldown": 4
+    },
+    "ability2":
+    {
+      "damage": 7,
+      "stun": false,
+      "dodge": false,
+      "cooldown": 6
+    }
+  },
+  {
+    "name": "Squirtle",
+    "hp": 60,
+    "attack": {
+      "normalAttack": 0,
+      "specialAttack": 3
+    },
+    "defense": 5,
+    "specialDefense": 5,
+    "ability1":
+    {
+      "damage": 4,
+      "stun": false,
+      "dodge": false,
+      "cooldown": 3
+    },
+    "ability2":
+    {
+      "damage": 2,
+      "stun": true,
+      "dodge": false,
+      "cooldown": 2
+    }
+  },
+  {
+    "name": "Snorlax",
+    "hp": 62,
+    "attack": {
+      "normalAttack": 3,
+      "specialAttack": 0
+    },
+    "defense": 6,
+    "specialDefense": 4,
+    "ability1":
+    {
+      "damage": 4,
+      "stun": true,
+      "dodge": false,
+      "cooldown": 5
+    },
+    "ability2":
+    {
+      "damage": 0,
+      "stun": false,
+      "dodge": true,
+      "cooldown": 5
+    }
+  },
+  {
+    "name": "Vulpix",
+    "hp": 36,
+    "attack": {
+      "normalAttack": 5,
+      "specialAttack": 0
+    },
+    "defense": 2,
+    "specialDefense": 4,
+    "ability1":
+    {
+      "damage": 8,
+      "stun": true,
+      "dodge": false,
+      "cooldown": 6
+    },
+    "ability2":
+    {
+      "damage": 2,
+      "stun": false,
+      "dodge": true,
+      "cooldown": 7
+    }
+  },
+  {
+    "name": "Eevee",
+    "hp": 39,
+    "attack": {
+      "normalAttack": 0,
+      "specialAttack": 4
+    },
+    "defense": 3,
+    "specialDefense": 3,
+    "ability1":
+    {
+      "damage": 5,
+      "stun": false,
+      "dodge": false,
+      "cooldown": 3
+    },
+    "ability2":
+    {
+      "damage": 3,
+      "stun": true,
+      "dodge": false,
+      "cooldown": 3
+    }
+  },
+  {
+    "name": "Jigglypuff",
+    "hp": 34,
+    "attack": {
+      "normalAttack": 4,
+      "specialAttack": 0
+    },
+    "defense": 2,
+    "specialDefense": 3,
+    "ability1":
+    {
+      "damage": 4,
+      "stun": true,
+      "dodge": false,
+      "cooldown": 4
+    },
+    "ability2":
+    {
+      "damage": 3,
+      "stun": true,
+      "dodge": false,
+      "cooldown": 4
+    }
+  },
+  {
+    "name": "Meowth",
+    "hp": 41,
+    "attack": {
+      "normalAttack": 3,
+      "specialAttack": 0
+    },
+    "defense": 4,
+    "specialDefense": 2,
+    "ability1":
+    {
+      "damage": 5,
+      "stun": false,
+      "dodge": true,
+      "cooldown": 4
+    },
+    "ability2":
+    {
+      "damage": 1,
+      "stun": false,
+      "dodge": true,
+      "cooldown": 3
+    }
+  },
+  {
+    "name": "Psyduck",
+    "hp": 43,
+    "attack": {
+      "normalAttack": 3,
+      "specialAttack": 0
+    },
+    "defense": 3,
+    "specialDefense": 3,
+    "ability1":
+    {
+      "damage": 2,
+      "stun": false,
+      "dodge": false,
+      "cooldown": 4
+    },
+    "ability2":
+    {
+      "damage": 2,
+      "stun": true,
+      "dodge": false,
+      "cooldown": 5
+    }
+  }
+]
